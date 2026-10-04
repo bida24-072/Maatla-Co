@@ -1,2 +1,1 @@
-# Maatla-Co
-botique
+Mosadi Clothing Studio
